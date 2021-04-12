@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Menu>
+    <Primi>
+        <Primo id="PennePomodoro">
+            <Costo>5.00</Costo>
+        </Primo>
+        <Primo id="Lasagne">
+            <Costo>8.00</Costo>
+            <KCal>151</KCal>
+        </Primo>
+    </Primi>
+    <Secondi>
+        <Secondo id="Paillard">
+            <Costo>7.00</Costo>
+            <KCal>110</KCal>
+            <Contorno>patate al forno</Contorno>
+        </Secondo>
+        <Secondo id="QuartoPolloSpiedo">
+            <Costo>9.00</Costo>
+            <KCal>250</KCal>
+            <Contorno>purea di patate</Contorno>
+        </Secondo>
+    </Secondi>
+</Menu>

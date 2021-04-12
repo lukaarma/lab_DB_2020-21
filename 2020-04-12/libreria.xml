@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<catalogo>
+    <libro disponibile="true">
+        <titolo>Il nome della rosa</titolo>
+        <autore>Umberto Eco</autore>
+        <editore>Feltrinelli</editore>
+        <prezzo>50.0</prezzo>
+    </libro>
+    <libro disponibile="false">
+        <titolo>Delfini</titolo>
+        <autore>Banana Yoshimoto</autore>
+        <editore>Feltrinelli</editore>
+        <prezzo>40.0</prezzo>
+    </libro>
+    <libro disponibile="false">
+        <titolo>Dieci piccoli indiani</titolo>
+        <autore>Agatha Christie</autore>
+        <editore>Mondadori</editore>
+        <prezzo>30.0</prezzo>
+    </libro>
+    <libro disponibile="true">
+        <titolo>Seta</titolo>
+        <autore>Alessandro Baricco</autore>
+        <editore>Mondadori</editore>
+        <prezzo>10.0</prezzo>
+    </libro>
+</catalogo>

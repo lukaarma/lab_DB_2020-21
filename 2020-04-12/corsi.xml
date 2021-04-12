@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CdL codice="F1A">
+    <nome>SSRI</nome>
+    <erogazione>online</erogazione>
+    <anno num="1">
+        <corso quadrimestre="primo">
+            <titolo>Programmazione</titolo>
+            <docente>M. Anisetti</docente>
+        </corso>
+        <corso quadrimestre="secondo">
+            <titolo>Architettura degli Elaboratori</titolo>
+            <docente>N. Scarabottolo</docente>
+        </corso>
+    </anno>
+    <anno num="2">
+        <corso quadrimestre="primo">
+            <titolo>Algoritmi e strutture dati</titolo>
+            <docente>S. De Capitani di Vimercati</docente>
+        </corso>
+        <corso quadrimestre="secondo">
+            <titolo>Basi di dati</titolo>
+            <docente>P. Samarati</docente>
+        </corso>
+        <corso quadrimestre="terzo">
+            <titolo>Crittografia</titolo>
+            <docente>S. Cimato</docente>
+        </corso>
+    </anno>
+</CdL>
